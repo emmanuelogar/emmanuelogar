@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelogar&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelogar" /> </p>
 
 - 🔭 I’m currently exploring Cloud Native Deployments and Devops ...
-- 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles]([[https://hashnode.com/@EmmanuelOgar/)])
+- 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles](https://hashnode.com/@EmmanuelOgar/)
 - 📫 How to reach me: ...
 - 📫 Drop a mail at [ogaremmanuel360@outlook.com]
 
