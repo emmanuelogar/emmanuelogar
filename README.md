@@ -2,12 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelogar&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelogar" /> </p>
 
-<!--
 - 🔭 I’m currently exploring Cloud Native Deployments and Devops ...
 - 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles]([[https://hashnode.com/@EmmanuelOgar/)])
 - 📫 How to reach me: ...
 - 📫 Drop a mail at [ogaremmanuel360@outlook.com]
--->
+
 <p align="left">
 <a href="https://www.linkedin.com/in/chaitannyaa-gaikwad-b16965115/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="chaitannyaa gaikwad" height="45" width="50" /></a>
 <a href="https://twitter.com/chaitannyaa2" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="chaitannyaa2" height="40" width="50" /></a>
