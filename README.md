@@ -12,7 +12,6 @@
 <a href="https://twitter.com/e_ogar360" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="e_ogar360" height="40" width="50" /></a>
 <a href="https://hashnode.com/@EmmanuelOgar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@EmmanuelOgar" height="45" width="50" /></a>
 </p>
-https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="125" height="55"/> </a>
