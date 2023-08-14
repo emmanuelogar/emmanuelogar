@@ -15,7 +15,7 @@
 
 <h2 align="left">⚡ Tech Stack</h3>
 
-![Azure](https://img.shields.io/badge/microsoft%20azure-blue?logo=microsoft%20azure&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
