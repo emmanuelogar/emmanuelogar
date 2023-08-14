@@ -8,14 +8,13 @@
 - 📫 Drop a mail at [ogaremmanuel360@outlook.com]
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ogaremmanuel/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="emmanuel ogar" height="45" width="50" /></a>
+<a href="https://www.linkedin.com/in/ogaremmanuel/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="emmanuel ogar" height="35" width="40" /></a>
 <a href="https://twitter.com/e_ogar360" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="e_ogar360" height="40" width="50" /></a>
 <a href="https://hashnode.com/@EmmanuelOgar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@EmmanuelOgar" height="45" width="50" /></a>
 </p>
 
 <h2 align="left">⚡ Tech Stack</h3>
-<p align="left">
-  
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -46,6 +45,5 @@
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![ZigBee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-</p>
 
 <h2 align="left">Latest Project:</h2>
