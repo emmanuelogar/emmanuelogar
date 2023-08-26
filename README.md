@@ -3,14 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelogar&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelogar" /> </p>
 
 - 🔭 I’m currently exploring Cloud Native Deployments and DevOps and DevSecOps Projects.
-- 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles](https://hashnode.com/@EmmanuelOgar/)
+- 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles]([https://dev.to/emmanuelogar])
 - 📫 How to reach me: ...
 - 📫 Drop a mail at [ogaremmanuel360@outlook.com]
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ogaremmanuel/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="emmanuel ogar" height="35" width="40" /></a>
 <a href="https://twitter.com/e_ogar360" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="e_ogar360" height="40" width="50" /></a>
-<a href="https://hashnode.com/@EmmanuelOgar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@EmmanuelOgar" height="45" width="50" /></a>
+<a href="https://dev.to/emmanuelogar" target="blank"><img align="center" src="[https://www.vectorlogo.zone/logos/devto/devto-icon.svg]" alt="@EmmanuelOgar" height="45" width="50" /></a>
 </p>
 
 <h2 align="left">⚡ Tech Stack</h3>
