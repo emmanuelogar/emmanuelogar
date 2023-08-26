@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelogar&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelogar" /> </p>
 
 - 🔭 I’m currently exploring Cloud Native Deployments and DevOps and DevSecOps Projects.
-- 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles]([https://dev.to/emmanuelogar])
+- 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles](https://dev.to/emmanuelogar)
 - 📫 How to reach me: ...
-- 📫 Drop a mail at [](ogaremmanuel360@outlook.com)
+- 📫 Drop a mail at [ogaremmanuel360@outlook.com](ogaremmanuel360@outlook.com)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ogaremmanuel/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="emmanuel ogar" height="35" width="40" /></a>
