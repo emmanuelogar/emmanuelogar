@@ -12,7 +12,6 @@
 <a href="https://twitter.com/e_ogar360" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="e_ogar360" height="40" width="50" /></a>
 <a href="https://dev.to/emmanuelogar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="@EmmanuelOgar" height="45" width="50" /></a>
 </p>
-https://www.vectorlogo.zone/logos/devto/devto-ar21.svg
 <h2 align="left">⚡ Tech Stack</h3>
 
 ![Azure](https://img.shields.io/badge/microsoft%20azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
