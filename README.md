@@ -9,9 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelogar&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelogar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭I’m currently exploring **Cloud Native Deployments and DevOps and DevSecOps Projects.**
-
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🔭I’m currently exploring **Cloud Native Deployments, Cloud DevOps and DevSecOps Projects.**
 
 - 📝 I regularly write articles on [https://dev.to/emmanuelogar](https://dev.to/emmanuelogar)
 
