@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Nodejs app using Terraform to kind Kubernetes cluster.](https://dev.to/emmanuelogar/deploying-a-nodejs-app-using-terraform-to-kind-kubernetes-cluster-3kfl)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
